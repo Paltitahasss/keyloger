@@ -1,2 +1,2 @@
 # keyloger
-key loger echo que se conecta con tu emial al que deseas
+key loger que se conecta con tu mial al que deseas
